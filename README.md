@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Cryptanalysis is the study and discovery of vulnerabilities within cryptographic algorithms that can be used to decrypt ciphertext without the secret key12. It’s an important component of the process of creating strong cryptosystems.
+Cryptanalysis is the study and discovery of vulnerabilities within cryptographic algorithms that can be used to decrypt ciphertext without the secret key. It’s an important component of the process of creating strong cryptosystems.
 
 There are three generic forms of cryptanalysis:
 - Ciphertext-only: The attacker has the ciphertext available to them for decoding.
